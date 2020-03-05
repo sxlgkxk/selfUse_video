@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="row">
+	<div class="col-md-12">
+
+        <input type="text" class="form-control" id="searchbar">
+
+		<ul class="pagination">
+			<li class="page-item"><a class="page-link" href="/c/{{ path }}?page={{ page-1 }}">prev</a></li>
+			{% for pagei in range(1,pages+1) %}
+				{% if pagei-page <3 and pagei-page >-3 %}
+					<li class="page-item {% if pagei == page %}active{% endif %}"><a class="page-link" href="/c/{{ path }}?page={{ pagei }}">{{ pagei }}</a></li>
+				{% endif %}
+			{% endfor %}
+			<li class="page-item"><a class="page-link" href="/c/{{ path }}?page={{ page+1 }}">next</a></li>
+		</ul>
+		<h3>item list</h3>
+        <ul id="item_list">
+		{% for item in item_list %}
+			<li>
+                <img src="/{{ item['path'] }}.gif"></img><br>
+                <a href="/v/{{ item['path'] }}">{{ item['filename'] }}</a>
+            </li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>
+<script>
+    $('#searchbar').bind('input',function(){
+        keys=$('#searchbar').val();
+        $.get('/search',{keys:keys},function(data){
+            itemlist='';
+            data=data['itemlist'];
+            for(x in data){
+                item=data[x];
+                itemlist+="<li><a href='/v/"+item['path']+"'>"+item['filename']+"</a></li>"
+            }
+            $('#item_list').html(itemlist);
+        });
+    });
+</script>
+{% endblock %}

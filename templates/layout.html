@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>{{ stat.name }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="{{ url_for('static',filename='css/bootstrap.min.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static',filename='css/fontawesome.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/plyr.css') }}" />
+	<script src="{{ url_for('static',filename='js/jquery-3.3.1.min.js') }}"></script>
+	<script src="{{ url_for('static',filename='js/moment.min.js') }}"></script>
+	<script src="{{ url_for('static',filename='js/MathJax.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/plyr.js') }}"></script>
+</head>
+<body>
+<div class="container">
+	<div class="row" style="background-color: black;color: white">
+		<div class="col-md-12">
+			<h1>
+				<a href="/" class="text-white">{{ stat.name }}</a>
+				<!--<small><sub> -&#45;&#45;{{ stat.words }} words in total</sub></small>-->
+			</h1>
+		</div>
+		<div class="col-md-12">
+			<button class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" style="width: 100%; margin-bottom: 10px">
+				tools
+			</button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="{{stat['ip']}}:5003">read</a>
+                <a class="dropdown-item" href="{{stat['ip']}}:5004">gallery</a>
+                <a class="dropdown-item" href="{{stat['ip']}}:5005">video</a>
+                <a class="dropdown-item" href="{{stat['ip']}}:5006">news</a>
+                <a class="dropdown-item" href="{{stat['ip']}}:5009">music</a>
+                <p class="dropdown-item">game</p>
+
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{{stat['ip']}}:5013">input</a>
+				<a class="dropdown-item" href="{{stat['ip']}}:5008">aria2c_web</a>
+				<a class="dropdown-item" href="http://108.160.135.157:5001">paste</a>
+                <a class="dropdown-item" href="http://108.160.135.157:5002">pic</a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="container">
+
+				<h2>Category: {{cur_category}}</h2>
+
+				<h3 data-toggle="collapse" href="#collapse" aria-expanded="false" aria-controls="collapse">sub category list</h3>
+				<div class="collapse" id="collapse">
+					<ul>
+					{% for category in category_list %}
+			            <li style="margin-left: {{category['name'].count('/')*30}}px;{% if category['name']==cur_category %}background-color: lightgrey;{% endif %}">
+				            <a href="{{ '/c/'+category['name'] }}" class="text-dark">{{category['name']}}</a>
+				            <small style="color:#777"><sub> {{category['size']}} </sub></small>
+			            </li>
+					{% endfor %}
+					</ul>
+				</div>
+
+				{% block body %}{% endblock %}
+			</div>
+		</div>
+	</div>
+	<div class="row" style="background-color: black;color:white">
+		<div class="col-md-12">
+			{% block footer %}
+			<p>copyright sxlgkxk && email:sxlgkxk@gmail.com</p>
+			{% endblock %}
+		</div>
+	</div>
+</div>
+<script src="{{ url_for('static',filename='js/popper.min.js') }}"></script>
+<script src="{{ url_for('static',filename='js/bootstrap.min.js') }}"></script>
+<script>
+	now=new Date();
+	hour=now.getHours();
+	if (now.getMinutes()<=30)
+	    time=hour+':00-'+hour+':30';
+	else
+	    time=hour+':30-'+hour+1+':00';
+	$('li:contains('+time+')').css('background','lightgrey');
+
+	day=now.getDate();
+	$('li:contains('+day+'日'+')').css('background','lightgrey');
+
+	month=now.getMonth()+1;
+	$('li:contains('+month+'月'+')').css('background','lightgrey');
+
+	year=now.getFullYear();
+	$('li:contains('+year+'年'+')').css('background','lightgrey');
+
+	$('li:contains('+'day-'+year+'-'+month+'-'+day+')').css('background','lightgrey');
+	$('li:contains('+'month-'+year+'-'+month+')').css('background','lightgrey');
+	$('li:contains('+'year-'+year+')').css('background','lightgrey');
+</script>
+<style>
+	img{
+		max-width: 100%;
+	}
+	video{
+		max-width: 100%;
+	}
+	pre{
+		background: #DDDDDD;
+	}
+    h1 { font-size: 24px;}
+    h2 { font-size: 22px;}
+    h3 { font-size: 18px;}
+    h4 { font-size: 16px;}
+    h5 { font-size: 12px;}
+    h6 { font-size: 10px;}
+
+	a:link    {color:black;}
+	a:visited {color:black;}
+</style>
+<script>
+    const player = new Plyr('#player');
+</script>
+</body>
+</html>

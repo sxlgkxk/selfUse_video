@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02f6cb4f-dca6-41f2-bf05-b926efa28b4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../blog/app_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/app_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/apptool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/generate_trend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/activities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/anime.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/book.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/checkin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/eat.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/fap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/girlfriend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/magic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/money.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/movie.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/paint.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/sleep.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/speed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/think.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/walk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/write1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/做事的顺序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/cultivate/狠心.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-15.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-16.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-17.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-18.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-19.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-21.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-23.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/mayor/mayor-2019-09-24.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/status/status-2019-09-22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/CNN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/adb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/analyse_method_to_get_site_api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/awesome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/awesomewm.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/beautifulSoup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/bilibili_api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/blender.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/bootstrap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/fish.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/flask.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/game.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/godot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/http-server.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/linux-utils.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/markdown_convert_to_html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/node.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/paste.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/pic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/ptool.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/pyquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/python3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/ranger.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/readthedocs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/repo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/requests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/startup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/status.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/strawberrypi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/tmux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/travis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/ubuntu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/use_travis_deploy_github_blog_automatically.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/v2ray.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/tech/win.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/md/trend/trend-2019-09-22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/static/white_list.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_CNN.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_adb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_anime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_awesome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_awesomewm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_beautifulSoup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_blender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_checkin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_classlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_cnn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_docker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_eat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_fap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_fish.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_flask.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_girlfriend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_git.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_godot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_http-server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_linux-utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_magic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_markdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_markdown_convert_to_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_mayor-2019-09-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_money.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_music.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_paint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_paste.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_pic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_ptool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_python3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_ranger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_readthedocs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_repo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_requests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_sleep.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_speed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_startup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_status-2019-09-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_strawberrypi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_study.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_think.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_tmux.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_travis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_trend-2019-09-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_ubuntu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_use_travis_deploy_github_blog_automatically.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_v2ray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_vim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_walk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_win.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/_write1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/templates/status.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../static/others/status.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/uploadmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../paste/apptool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../paste/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../paste/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../paste/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../paste/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/apptool" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pic/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/static/code2path.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../pic/static/code2path.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/static/item/d41d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/static/item_list.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../pic/static/item_list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pic/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pic/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../push" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1227042799">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="y" value="18" />
+    <option name="width" value="1920" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f6cb4f-dca6-41f2-bf05-b926efa28b4e" name="Default Changelist" comment="" />
+      <created>1574651913802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574651913802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="18" width="1920" height="1062" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973261" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
